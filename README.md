@@ -1,2 +1,2 @@
 # some-other-thing 
-https://x.thunkable.com/copy/6b6763ca4da6c4eae7e0f2f2effab3c8
+https://x.thunkable.com/copy/f8376909a846b0fb6fcdc19e5d3b615d
